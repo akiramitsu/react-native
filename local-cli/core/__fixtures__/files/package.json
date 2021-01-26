@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "lodash": "^3.8.0",
-    "yargs": "^3.30.0",
+    "yargs": "^16.0.0",
     "rnpm-plugin-test": "*"
   },
   "devDependencies": {
